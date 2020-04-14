@@ -1,0 +1,45 @@
+body {
+  background-image: url("../img/bg30-Ar1web.gif");
+}
+
+h3.main_head {
+  text-align: right;
+  margin: 100px 40px 40px 0;
+  border-right: 3px solid #007bff;
+  padding-right: 10px;
+}
+
+.main {
+  width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  border-radius: 10px;
+  text-align: center;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  box-shadow: 0px 0px 9px #999;
+  -webkit-box-shadow: 0px 0px 9px #999;
+  /* start media for medium and small screen  */
+}
+@media (max-width: 992px) {
+  .main {
+    width: 95%;
+  }
+}
+.main img {
+  height: 240px;
+  width: 430px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  box-shadow: 0px 0px 9px #999;
+  -webkit-box-shadow: 0px 0px 9px #999;
+  margin: 30px 0 20px 0;
+}
+.main p {
+  width: 85%;
+  color: #555;
+  margin: 20px auto;
+  padding-bottom: 40px;
+}
+
+/*# sourceMappingURL=featuresDetailes.css.map */

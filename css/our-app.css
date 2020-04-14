@@ -1,0 +1,48 @@
+body {
+  background-image: url("../img/bg30-Ar1web.gif");
+  width: 100%;
+}
+
+/* start our work block elements style  */
+h2.all-work {
+  margin: 50px 20px 100px 0;
+  font-weight: 400;
+  padding-right: 10px;
+  border-right: 3px solid #007bff;
+}
+
+.our-work .container .row {
+  padding-bottom: 100px;
+}
+.our-work .container .row .col-sm-12 {
+  margin-top: 30px;
+}
+.our-work .container .row .col-sm-12 .block {
+  background-color: #fff;
+  border-radius: 35px;
+  box-shadow: 3px 4px 22px #555;
+  -webkit-box-shadow: 3px 4px 22px #555;
+  margin: auto;
+}
+.our-work .container .row .col-sm-12 .block img {
+  height: 250px;
+  width: 100%;
+  border-radius: 35px;
+}
+.our-work .container .row .col-sm-12 .block span {
+  display: block;
+  text-align: center;
+  padding: 25px;
+  font-size: 18px;
+}
+
+/* start pagination block elements style  */
+nav.pagination {
+  background-color: transparent;
+}
+nav.pagination ul {
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+/*# sourceMappingURL=our-app.css.map */
